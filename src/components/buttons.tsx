@@ -5,7 +5,7 @@ export const BaseBtn = styled.button<{ width?: string }>`
   width: ${(props) => props?.width || '100%'};
   height: 44px;
 
-  color: ${colors.Black};
+  color: ${colors.White};
   background-color: ${colors.Main};
 
   border: none;
